@@ -40,4 +40,4 @@ class testeDeMesa:
 if __name__ == "__main__":
     teste = testeDeMesa(2)
     print(teste.run())
-    print('Isto é um teste')
+    print('Isto é um segundo teste')
