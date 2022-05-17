@@ -39,4 +39,4 @@ class testeDeMesa:
         
 if __name__ == "__main__":
     teste = testeDeMesa(2)
-    teste.run()
+    print(teste.run())
